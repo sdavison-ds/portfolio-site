@@ -7,11 +7,18 @@
     "text": "Ames Housing Regression Analysis\nMultiple linear regression analysis of housing prices. Compares baseline and log-transformed models with diagnostic testing.\nView on GitHub\n\n\nXGBoost Neural Activity Model\nClassification model predicting neural activity patterns. Built in Python with scikit-learn and XGBoost. View on GitHub\n\n\nWine Price Prediction\nScrape wines from Vivino -&gt; clean data -&gt; build interpretable price prediction model -&gt; identify undervalued wines. (In-Progress) View on GitHub"
   },
   {
-    "objectID": "blog/posts/test-post/index.html",
-    "href": "blog/posts/test-post/index.html",
-    "title": "First Post",
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Sam Davison",
     "section": "",
-    "text": "This is a test post to make sure the blog works. Real analysis coming soon."
+    "text": "data nerd with problems\nData Analyst | Georgia Tech OMSA | Python, SQL, Power BI\nWelcome to my corner of the internet. I build data projects and occasionally write about whatever I find interesting from a data perspective.\nCheck out my projects or read the blog."
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "First Post\n\n\nTesting out the blog.\n\n\n\n\n\nJun 8, 2026\n\n\nSam\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "about.html",
@@ -35,17 +42,45 @@
     "text": "Education\nGeorgia Tech | M.S. Analytics | Starting Fall 2026\nUC Davis | B.S. Managerial Economics | Minors in Statistics & Technology Management"
   },
   {
-    "objectID": "blog/index.html",
-    "href": "blog/index.html",
-    "title": "Blog",
+    "objectID": "blog/posts/test-post/index.html",
+    "href": "blog/posts/test-post/index.html",
+    "title": "First Post",
     "section": "",
-    "text": "First Post\n\n\nTesting out the blog.\n\n\n\n\n\nJun 8, 2026\n\n\nSam\n\n\n\n\n\nNo matching items"
+    "text": "This is a test post to make sure the blog works. Real analysis coming soon."
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Sam Davison",
+    "objectID": "projects/ames_housing/ames_housing_regression.html",
+    "href": "projects/ames_housing/ames_housing_regression.html",
+    "title": "Ames Housing Regression Analysis",
     "section": "",
-    "text": "Data Analyst | Georgia Tech OMSA | Python, SQL, Power BI\nWelcome to my corner of the internet. I build data projects and occasionally write about whatever I find interesting from a data perspective.\nCheck out my projects or read the blog."
+    "text": "This analysis predicts home sale prices in Ames, Iowa using multiple linear regression. The final log-transformed model explains 81% of price variance using three features: overall quality, living area, and year built."
+  },
+  {
+    "objectID": "projects/ames_housing/ames_housing_regression.html#summary",
+    "href": "projects/ames_housing/ames_housing_regression.html#summary",
+    "title": "Ames Housing Regression Analysis",
+    "section": "",
+    "text": "This analysis predicts home sale prices in Ames, Iowa using multiple linear regression. The final log-transformed model explains 81% of price variance using three features: overall quality, living area, and year built."
+  },
+  {
+    "objectID": "projects/ames_housing/ames_housing_regression.html#model-comparison",
+    "href": "projects/ames_housing/ames_housing_regression.html#model-comparison",
+    "title": "Ames Housing Regression Analysis",
+    "section": "Model Comparison",
+    "text": "Model Comparison\n\n\n\nModel\nR²\nCoefficients\n\n\n\n\nLinear\n0.77\n2 (dollar terms)\n\n\nLog-Transformed\n0.81\n3 (% changes)"
+  },
+  {
+    "objectID": "projects/ames_housing/ames_housing_regression.html#key-findings",
+    "href": "projects/ames_housing/ames_housing_regression.html#key-findings",
+    "title": "Ames Housing Regression Analysis",
+    "section": "Key Findings",
+    "text": "Key Findings\n\nOverall Quality is the strongest predictor of sale price\nThe log-transformed model better satisfies regression assumptions\n~19% of variance remains unexplained, likely driven by location"
+  },
+  {
+    "objectID": "projects/ames_housing/ames_housing_regression.html#future-improvements",
+    "href": "projects/ames_housing/ames_housing_regression.html#future-improvements",
+    "title": "Ames Housing Regression Analysis",
+    "section": "Future Improvements",
+    "text": "Future Improvements\n\nInclude neighborhood as a categorical variable\nCross-validate against other model iterations to account for sampling variability\nRun formal diagnostic tests for regression assumptions:\n\nShapiro-Wilk for normality of residuals\nBreusch-Pagan for homoscedasticity"
   }
 ]
