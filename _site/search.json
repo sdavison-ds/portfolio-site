@@ -1,0 +1,51 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "cd portfolio-site",
+    "section": "",
+    "text": "This is a Quarto website.\nTo learn more about Quarto websites visit https://quarto.org/docs/websites."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "Data Analyst based in Northern California.\nCurrently starting Georgia Tech’s OMSA program, building toward data science and engineering.\nOutside of work, I like to brainrot, hike, and play video games."
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
+    "section": "",
+    "text": "Ames Housing Regression Analysis\nMultiple linear regression analysis of housing prices. Compares baseline and log-transformed models with diagnostic testing.\nView on GitHub\n\n\nXGBoost Neural Activity Model\nClassification model predicting neural activity patterns. Built in Python with scikit-learn and XGBoost. View on GitHub\n\n\nWine Price Prediction\nScrape wines from Vivino -&gt; clean data -&gt; build interpretable price prediction model -&gt; identify undervalued wines. (In-Progress) View on GitHub"
+  },
+  {
+    "objectID": "blog/index.html",
+    "href": "blog/index.html",
+    "title": "Blog",
+    "section": "",
+    "text": "First Post\n\n\nTesting out the blog.\n\n\n\n\n\nJun 8, 2026\n\n\nSam\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "about.html#hi-im-sam.",
+    "href": "about.html#hi-im-sam.",
+    "title": "About",
+    "section": "",
+    "text": "Data Analyst based in Northern California.\nCurrently starting Georgia Tech’s OMSA program, building toward data science and engineering.\nOutside of work, I like to brainrot, hike, and play video games."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\nGeorgia Tech | M.S. Analytics | Starting Fall 2026\nUC Davis | B.S. Managerial Economics | Minors in Statistics & Technology Management"
+  },
+  {
+    "objectID": "blog/posts/test-post/index.html",
+    "href": "blog/posts/test-post/index.html",
+    "title": "First Post",
+    "section": "",
+    "text": "This is a test post to make sure the blog works. Real analysis coming soon."
+  }
+]

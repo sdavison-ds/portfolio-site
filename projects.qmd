@@ -1,0 +1,24 @@
+---
+title: "Projects"
+---
+
+::: {.grid}
+
+::: {.g-col-6}
+### Ames Housing Regression Analysis
+Multiple linear regression analysis of housing prices. Compares baseline and log-transformed models with diagnostic testing.
+
+[View on GitHub](https://github.com/sdavison-ds/ames_housing_regression){.btn .btn-outline-light}
+:::
+
+::: {.g-col-6}
+### XGBoost Neural Activity Model
+Classification model predicting neural activity patterns. Built in Python with scikit-learn and XGBoost.
+[View on GitHub](https://github.com/sdavison-ds/mouse-neural-activity-prediction){.btn .btn-outline-light}
+:::
+
+::: {.g-col-6}
+### Wine Price Prediction
+Scrape wines from Vivino -> clean data -> build interpretable price prediction model -> identify undervalued wines. (In-Progress)
+[View on GitHub](https://github.com/sdavison-ds/wine_price_predictor){.btn .btn-outline-light}
+:::

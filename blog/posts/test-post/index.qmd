@@ -1,0 +1,9 @@
+---
+title: "First Post"
+description: "Testing out the blog."
+author: "Sam"
+date: "2026-06-08"
+categories: [misc]
+---
+
+This is a test post to make sure the blog works. Real analysis coming soon.

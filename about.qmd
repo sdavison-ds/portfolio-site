@@ -1,0 +1,26 @@
+---
+title: "About"
+about:
+  template: jolla
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/sdavison-ds
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com/in/samueldavison-
+---
+
+## Hi, I'm Sam.
+
+Data Analyst based in Northern California.
+
+Currently starting Georgia Tech's OMSA program, building toward data science and engineering.
+
+Outside of work, I like to brainrot, hike, and play video games.
+
+## Education
+
+**Georgia Tech** | M.S. Analytics | Starting Fall 2026
+
+**UC Davis** | B.S. Managerial Economics | Minors in Statistics & Technology Management
