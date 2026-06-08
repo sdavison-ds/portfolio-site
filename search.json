@@ -67,7 +67,7 @@
     "href": "projects/ames_housing/index.html#model-comparison",
     "title": "Ames Housing Regression Analysis",
     "section": "Model Comparison",
-    "text": "Model Comparison\n\n\n\nModel\nR²\nCoefficients\n\n\n\n\nLinear\n0.77\n2 (dollar terms)\n\n\nLog-Transformed\n0.81\n3 (% changes)"
+    "text": "Model Comparison\n\n\n\nModel\nRÂ²\nCoefficients\n\n\n\n\nLinear\n0.77\n2 (dollar terms)\n\n\nLog-Transformed\n0.81\n3 (% changes)\n\n\n\nNote: The RÂ² improvement from 0.77 to 0.81 cannot be attributed solely to the log transformation. The log-transformed model also includes Year Built as a third feature, which contributes to the improved explanatory power."
   },
   {
     "objectID": "projects/ames_housing/index.html#key-findings",
