@@ -4,7 +4,7 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Ames Housing Regression Analysis\nMultiple linear regression analysis of housing prices. Compares baseline and log-transformed models with diagnostic testing.\nView on GitHub\n\n\nXGBoost Neural Activity Model\nClassification model predicting neural activity patterns. Built in Python with scikit-learn and XGBoost. View on GitHub\n\n\nWine Price Prediction\nScrape wines from Vivino -&gt; clean data -&gt; build interpretable price prediction model -&gt; identify undervalued wines. (In-Progress) View on GitHub"
+    "text": "Ames Housing Regression Analysis\nMultiple linear regression analysis of housing prices. Compares baseline and log-transformed models with diagnostic testing.\nView on GitHub View Analysis\n\n\nXGBoost Neural Activity Model\nClassification model predicting neural activity patterns. Built in Python with scikit-learn and XGBoost. View on GitHub\n\n\nWine Price Prediction\nScrape wines from Vivino -&gt; clean data -&gt; build interpretable price prediction model -&gt; identify undervalued wines. (In-Progress) View on GitHub"
   },
   {
     "objectID": "index.html",
